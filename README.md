@@ -50,5 +50,5 @@ This project uses **Gemini AI** and **LangChain** to extract, interpret, and sum
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shivangi1612/medisage.git.git
+git clone https://github.com/shivangi1612/medisage.git
 cd MediSage
