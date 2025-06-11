@@ -12,12 +12,12 @@ This project uses **Gemini AI** and **LangChain** to extract, interpret, and sum
 
 ## 📸 Preview
 
-![Preview Screenshot](./1.png) 
-![Preview Screenshot](./2.png)
-![Preview Screenshot](./3.png)
-![Preview Screenshot](./4.png)
-![Preview Screenshot](./5.png)
-![Preview Screenshot](./6.png)
+![Preview Screenshot](public/1.png) 
+![Preview Screenshot](public/2.png)
+![Preview Screenshot](public/3.png)
+![Preview Screenshot](public/4.png)
+![Preview Screenshot](public/5.png)
+![Preview Screenshot](public/6.png)
 
 ---
 
